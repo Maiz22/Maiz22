@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/Maiz22/ds_algos_python/blob/main/bfs.py)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
