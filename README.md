@@ -6,6 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/Maiz22/ds_algos_python/blob/main/bfs.py)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python Projects</b>
+  - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
 
 
 <h2> 🤳 Connect with me:</h2>
