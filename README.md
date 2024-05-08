@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Matthias! <br/><a href="https://github.com/Maiz22">Programmer</a>, <a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Development Engineer/Software Engineer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>C# (.NET Desktop Applications)</b>
+- <b>Python</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/matthias-fabian-schmidt-077893107/
 
 <!--
-**Maiz22/Maiz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
