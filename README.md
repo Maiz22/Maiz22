@@ -10,7 +10,7 @@
   - E-Commerce Auction Site (Djagno/HTML/CSS)
   - E-Mail Client Front-End (JavaScript/HTML/CSS)
   - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)<br/>
-  (Code will not be published to stick to the course’s policy)
+(Code will not be published to stick to the course’s policy)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
