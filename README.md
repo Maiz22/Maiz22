@@ -5,12 +5,12 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/Maiz22/ds_algos_python/blob/main/bfs.py)
 - <b>CS50's Web Programming with Python and JavaScript</b>
-  - Goolge Search Front-End (HTML/CSS)
-  - Wikipedia-Like Online Encyclopedia (Django/HTML/CSS)
-  - E-Commerce Auction Site (Djagno/HTML/CSS)
-  - E-Mail Client Front-End (JavaScript/HTML/CSS)
-  - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
-    - (Code will not be published to stick to the course’s policy)
+  - Projects (Code will not be published due to the course’s policy):  
+    - Goolge Search Front-End (HTML/CSS)
+    - Wikipedia-Like Online Encyclopedia (Django/HTML/CSS)
+    - E-Commerce Auction Site (Djagno/HTML/CSS)
+    - E-Mail Client Front-End (JavaScript/HTML/CSS)
+    - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
