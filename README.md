@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthias! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Development Engineer/Software Engineer</a></h1>
+<h1>Hi, I'm Matthias! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Development Engineer / Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
