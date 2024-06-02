@@ -13,6 +13,7 @@
     - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
 - <b>Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
+  - [Test Automation Interface](https://github.com/Maiz22/test_automation_interface)
 
 
 <h2> 🤳 Connect with me:</h2>
