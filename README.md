@@ -11,6 +11,8 @@
     - E-Commerce Auction Site (Djagno/HTML/CSS)
     - E-Mail Client Front-End (JavaScript/HTML/CSS)
     - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
+  - Final Project:
+    - Stock Trading Demo Application (Django/JavaScript/HTML/CSS)
 - <b>Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
   - [Test Automation Interface](https://github.com/Maiz22/test_automation_interface)
