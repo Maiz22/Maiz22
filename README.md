@@ -13,6 +13,11 @@
     - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
   - Final Project:
     - Stock Trading Demo Application (Django/JavaScript/HTML/CSS)
+- <b> Company Owned Python Projects</b>
+    - cURL Request Tool (Tkinter, Paramiko, Threading)
+    - Test Case Entry GUI (Tkinter, JSON)
+    - Test Automation (Paramiko, python-can, JSON)
+    - Remote Display Control (Tkinter, python-can, threading, python-vlc)
 - <b>Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
   - [Test Automation Interface](https://github.com/Maiz22/test_automation_interface)
