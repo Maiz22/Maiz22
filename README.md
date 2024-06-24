@@ -18,7 +18,7 @@
     - Test Case Entry GUI (Tkinter, JSON)
     - Test Automation (Paramiko, python-can, JSON)
     - Remote Display Control (Tkinter, python-can, threading, python-vlc)
-- <b>Python Projects</b>
+- <b>Public Python Projects</b>
   - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
   - [Test Automation Interface](https://github.com/Maiz22/test_automation_interface)
   - [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
