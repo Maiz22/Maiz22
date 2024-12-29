@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthias Fabian Schmidt! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Engineer / Software Developer</a></h1>
+<h1>Hi, I'm Matthias Fabian Schmidt! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Software Developer / Mechanical Engineer</a></h1>
 
 <h2>📃 Education and Certificates</h2>
 
