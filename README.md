@@ -27,15 +27,21 @@
     - Twitter-Like Social Network (Django/JavaScript/HTML/CSS)
   - Final Project:
     - Stock Trading Demo Application (Django/JavaScript/HTML/CSS)
-- <b> Company Owned Python Projects</b>
-    - cURL Request Tool (Tkinter, Paramiko, Threading)
-    - Test Case Entry GUI (Tkinter, JSON)
-    - Test Automation (Paramiko, python-can, JSON)
-    - Remote Display Control (Tkinter, python-can, threading, python-vlc)
+<br/>
+
+- <b> Company Owned Projects</b>
+    - cURL Request Tool (Python, Tkinter, Paramiko, Threading)
+    - Test Case Entry GUI (Python, Tkinter, JSON)
+    - Test Automation (Python, Paramiko, python-can, JSON)
+    - Remote Display Control (Python, Tkinter, python-can, threading, python-vlc)
+    - Development of a remote test environment for an automotive infotaiment system (Hardware and Software)
+<br/>
+
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/Maiz22/ds_algos_python/blob/main/bfs.py) 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
+
 [linkedin](https://www.linkedin.com/in/matthias-fabian-schmidt-077893107/)
 
 <!--
