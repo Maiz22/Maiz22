@@ -1,8 +1,8 @@
 <h1>Hi, I'm Matthias! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Development Engineer / Software Engineer</a></h1>
 
 <h2>📃 Certificates</h2>
-- 
-- Professional Certificate - Google IT Automation with Python (https://coursera.org/share/101f276792dd6a67c93d602c228a97a8)
+- "CS50's Web Programming with Python and JavaScript" by HarvardX (https://courses.edx.org/certificates/648a1d28aa93452ab1e45cb3bd6b66d8)
+- Professional Certificate - "Google IT Automation with Python" (https://coursera.org/share/101f276792dd6a67c93d602c228a97a8)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
