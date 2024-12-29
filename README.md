@@ -1,9 +1,13 @@
-<h1>Hi, I'm Matthias! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Development Engineer / Software Developer</a></h1>
+<h1>Hi, I'm Matthias! <br/><a href="https://www.linkedin.com/in/matthias-fabian-schmidt-077893107">Engineer / Software Developer</a></h1>
 
-<h2>📃 Certificates</h2>
+<h2>📃 Education and Certificates</h2>
 
-- ["CS50's Web Programming with Python and JavaScript" by HarvardX](https://courses.edx.org/certificates/648a1d28aa93452ab1e45cb3bd6b66d8)
-- ["Google IT Automation with Python" Professional Certificate by Goolge](https://coursera.org/share/101f276792dd6a67c93d602c228a97a8)
+- <b>Bachelor of Science in "Mechanical Engineering" at Technical University at Braunschweig Germany</b>
+  - Engineering Mathematics/Control Theory/Thermodynamics/Introduction to Computer Science/Mechanics...
+- <b>"CS50's Web Programming with Python and JavaScript" by HarvardX</b> [(click here)](https://courses.edx.org/certificates/648a1d28aa93452ab1e45cb3bd6b66d8)
+  - Python/Django/JavaScript/React/HTML/CSS 
+- <b>"Google IT Automation with Python" Professional Certificate by Goolge</b> [(click here)](https://coursera.org/share/101f276792dd6a67c93d602c228a97a8)
+  - Python/Git/Operating Systems/Cloud/Docker/Kubernetes/"CI/CD"/Troubleshooting and Debugging
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
