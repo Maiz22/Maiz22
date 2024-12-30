@@ -11,11 +11,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Public Python Projects</b>
-  - [PokerReviewTool](https://github.com/Maiz22/PokerReviewTool)     
-  - [File Organizer GUI](https://github.com/Maiz22/file_organizer)
-  - [PyTest GUI](https://github.com/Maiz22/pytest_gui)
-  - [Test Automation Interface](https://github.com/Maiz22/test_automation_interface)
+- <b>Public Programming Projects</b>
+  - [PokerReviewTool (Python)](https://github.com/Maiz22/PokerReviewTool) (Python)   
+  - [File Organizer GUI (Python)](https://github.com/Maiz22/file_organizer)
+  - [PyTest GUI (Python)](https://github.com/Maiz22/pytest_gui)
+  - [Test Automation Interface (Python)](https://github.com/Maiz22/test_automation_interface)
   - [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
 <br/>
 
