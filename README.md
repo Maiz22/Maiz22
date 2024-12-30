@@ -16,7 +16,7 @@
   - [File Organizer GUI (Python)](https://github.com/Maiz22/file_organizer)
   - [PyTest GUI (Python)](https://github.com/Maiz22/pytest_gui)
   - [Test Automation Interface (Python)](https://github.com/Maiz22/test_automation_interface)
-  - [Spotify Frontend Clone (React)]()
+  - [Spotify Frontend Clone (JavaScript/React)]()
   - [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
 <br/>
 
