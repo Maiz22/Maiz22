@@ -19,8 +19,9 @@
   - [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
 <br/>
 
-- <b>CS50's Web Programming with Python and JavaScript</b>
-  - Projects (Code will not be published due to the course’s policy):  
+- <b>Full Stack Web Projects</b></br>
+(Code has been created during "CS50's Web Programming with Python and JavaScript" and cannot be published)
+  - Projects:  
     - Goolge Search Front-End (HTML/CSS)
     - Wikipedia-Like Online Encyclopedia (Django/HTML/CSS)
     - E-Commerce Auction Site (Djagno/HTML/CSS)
