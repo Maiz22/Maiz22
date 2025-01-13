@@ -14,7 +14,7 @@
 - <b>Public Programming Projects</b>
   - [PokerReviewTool (Python)](https://github.com/Maiz22/PokerReviewTool)  
   - [File Organizer GUI (Python)](https://github.com/Maiz22/file_organizer)
-  - [Data Input and Validation (Python, SQLAlchemy, Pydantic)] (https://github.com/Maiz22/data_input_and_validation/tree/main)
+  - [Data Input and Validation (Python, SQLAlchemy, Pydantic)](https://github.com/Maiz22/data_input_and_validation/)
   - [PyTest GUI (Python)](https://github.com/Maiz22/pytest_gui)
   - [Test Automation Interface (Python)](https://github.com/Maiz22/test_automation_interface)
   - [Spotify Frontend Clone (JavaScript/React)]()
