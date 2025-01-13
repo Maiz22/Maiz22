@@ -41,9 +41,6 @@
     - Development of a remote test environment for an automotive infotaiment system (Hardware and Software)
 <br/>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/Maiz22/ds_algos_python/blob/main/bfs.py) 
-
 <h2>Connect with me:</h2>
 
 📫 [linkedin](https://www.linkedin.com/in/matthias-fabian-schmidt-077893107/)
