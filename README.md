@@ -22,7 +22,7 @@
   - [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
 <br/>
 
-- <b>Full Stack Web Projects</b></br>
+- <b>HarvardX CS50 - Web Projects</b></br>
 (Code has been created during "CS50's Web Programming with Python and JavaScript" and cannot be published)
   - Projects:  
     - Goolge Search Front-End (HTML/CSS)
