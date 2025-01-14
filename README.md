@@ -15,6 +15,7 @@
   - [PokerReviewTool (Python/Tkinter/Pygame/Pytest)](https://github.com/Maiz22/PokerReviewTool)  
   - [File Organizer GUI (Python/Tkinter/JSON/ttkbootstrap)](https://github.com/Maiz22/file_organizer)
   - [Data Input and Validation (Python, SQLAlchemy, Pydantic)](https://github.com/Maiz22/data_input_and_validation/)
+  - [Google Finance Scraper (Python, Scrapy, JSON, csv)](https://github.com/Maiz22/google_finance_scraper)
   - [PyTest GUI (Python)](https://github.com/Maiz22/pytest_gui)
   - [Test Automation Interface (Python)](https://github.com/Maiz22/test_automation_interface)
   - [Spotify Frontend Clone (JavaScript/React)]()
