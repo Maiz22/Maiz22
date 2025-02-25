@@ -12,7 +12,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Public Programming Projects</b>
-  -  Full Stack:
+  -  Full Stack Web Projects:
       -  [ExpressReactBlog (JavaScript/Express.js/React.js/HTML/CSS)](https://github.com/Maiz22/react_express_blog)
       -  [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
   - Python-Tools:
