@@ -13,7 +13,7 @@
 
 - <b>Public Programming Projects</b>
   -  Web Projects:
-      -  [Social Media API (Pythons FastAPI/SQLModel)](https://github.com/Maiz22/fastapi_post_api)
+      -  [Social Media FastAPI (Pythons FastAPI/SQLModel)](https://github.com/Maiz22/fastapi_post_api)
       -  [ExpressReactBlog (JavaScript/Express.js/React.js/HTML/CSS)](https://github.com/Maiz22/react_express_blog)
       -  [Weather Dashboard (Pythons Flask/JavaScript/HTML/CSS)](https://github.com/Maiz22/weather_dashboard/tree/main)
   - Python-Tools:
